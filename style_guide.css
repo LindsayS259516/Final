@@ -40,5 +40,7 @@ h1 { font-size: 175%; font-weight: normal; margin-bottom: 5px; color:#262626; fo
 
 
 p {font-size:11.5px;}
+p.heavy { font-weight: bold; font-size:11.5px;}
+p.italic { font-weight: normal; font-style: italic; font-size:11.5px;}
 
 ul.a {list-style-type: square;font-size:11.5px; font-family: verdana, sans-serif;}
