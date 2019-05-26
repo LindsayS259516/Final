@@ -7,11 +7,12 @@
 
 #footer { boder: 3px black solid; background-color: #0000e6;  padding: 10px; text-align: center; height: 100px; color: white;}
 
-body {font-family: verdana, sans-serif; background-color: #ececf9; padding: 15px; margin: 0px 50px 50px 25px;font-size:11;}
+body {font-family: verdana, sans-serif; background-color: #ececf9; padding: 15px; margin: 0px 50px 50px 25px;font-size:11.5;}
  
 
 h1 { font-size: 175%; font-weight: normal; margin-bottom: 5px; color:#262626; font-weight: bold; font-family: Georgia, serif; text-align: center; }
-
+h2 { font-size: 150%; font-weight: normal; margin-top: 20px; margin-bottom: 5px; color:#262626; font-weight: bold; font-family:Georgia, serif; text-align: center; }
+h3 { font-size: 90%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; color:#ff6600; font-family: verdana, sans-serif; text-align: center;}
 
 #menu ul{ margin-left: 2.5em;}
 
