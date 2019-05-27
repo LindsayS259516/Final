@@ -14,25 +14,6 @@ h1 { font-size: 175%; font-weight: normal; margin-bottom: 5px; color:#262626; fo
 h2 { font-size: 150%; font-weight: normal; margin-top: 20px; margin-bottom: 5px; color:#262626; font-weight: bold; font-family:Georgia, serif; text-align: center; }
 h3 { font-size: 90%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; color:#ff6600; font-family: verdana, sans-serif; text-align: center;}
 
-#menu ul{ margin-left: 2.5em;}
-
-#menu li{list-style-type: none; background-color:#0000e6; width:9em; float: right; text-align:center; color: white;}
-
-#menu a { text-decoration: none; color: white; display: block; margin-left: 2px;}
-
-#menu a:hover { color:  #000099; text-decoration: none; background-color: white; font-weight: bold; box-shadow: 3px 3px 3px 3px purple;}
-
-
-
-#menu_left ul{ margin-left: 2.5em;}
-
-#menu_left li{list-style-type: none; background-color:#0000e6; width: 15em; text-align:center; color: white; padding: 10px 10px 10px 10px;}
-
-#menu_left a { text-decoration: none; color: white; display: block; margin-left: 2px; padding: 10px 10px 10px 10px;}
-
-#menu_left a:hover { color:  #000099; text-decoration: none; background-color: white; font-weight: bold; box-shadow: 3px 3px 3px 3px purple;}
-
-
 #button_center {text-align: center;}
 #button_center .button { float: centerleft; padding: 5px 10px; font-size: 14px; cursor: pointer; text-align: center; margin-top: 10px;
           outline: none; color: #262626; background-color: #FFC300; border: 2px solid #FF8D33; border-radius: 4px; box-shadow: 0 5px #999;}
