@@ -17,8 +17,8 @@ h3 { font-size: 90%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; co
 #button_center {text-align: center;}
 #button_center .button { float: centerleft; padding: 5px 10px; font-size: 14px; cursor: pointer; text-align: center; margin-top: 10px;
           outline: none; color: #262626; background-color: #FFC300; border: 2px solid #FF8D33; border-radius: 4px; box-shadow: 0 5px #999;}
-#button_center .button:hover {background-color: #FF8D33; color:#0000ff; border: 2px solid #FFC300;}
-#button_center .button:active { background-color: #8383af; color:#cccccc; box-shadow: 0 5px #666; transform: translateY(4px);}
+#button_center .button:hover {background-color: #FF8D33; color:#000000; border: 2px solid #FFC300;}
+#button_center .button:active { background-color: #002699; color:#f2f2f2; box-shadow: 0 5px #666; transform: translateY(4px); font-weight: bold;}
 
 
 p {font-size:11.5px;}
