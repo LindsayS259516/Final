@@ -1,9 +1,9 @@
-#head { padding: 20px; color: white; font-size: 18px; }
+#head { padding: 10px; color: white; font-size: 18px; }
 #head img { float:left; }
 
 #left { float: left; width: 20%; margin-top: 10px;}
 
-#right { float:left; width: 79%; margin-top: 10px;margind-left: 15px;}
+#right { float:left; width: 79%; margind-left: 15px;}
 
 #footer { boder: 3px black solid; background-color: #0000e6;  padding: 10px; text-align: center; height: 100px; color: white;}
 
