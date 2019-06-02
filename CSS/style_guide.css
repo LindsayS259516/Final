@@ -83,8 +83,12 @@ p.heavy { font-weight: bold;
 p.italic { font-weight: normal;
            font-style: italic;
            font-size:12px;
-           background-color: #4dff4d;
            margin-left: 40px}
+
+p.highlight { font-weight: normal;
+              font-size:12px;
+              background-color: #4dff4d;
+              margin-left: 40px}
 
 ul.a {list-style-type: square;font-size:11.5px; font-family: verdana, sans-serif;}
 
