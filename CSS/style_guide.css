@@ -12,7 +12,7 @@ body {font-family: verdana, sans-serif; background-color: #ececf9; padding: 15px
 
 h1 { font-size: 175%; font-weight: normal; margin-bottom: 5px; color:#262626; font-weight: bold; font-family: Georgia, serif; text-align: center; }
 h2 { font-size: 150%; font-weight: normal; margin-top: 20px; margin-bottom: 5px; color:#262626; font-weight: bold; font-family:Georgia, serif; text-align: center; }
-h3 { font-size: 90%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; color:#ff6600; font-family: verdana, sans-serif; text-align: center;}
+h3 { font-size: 120%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; color:#ff6600; font-family: verdana, sans-serif; text-align: center;}
 
 #button_center {text-align: center;}
 #button_center .button { float: centerleft; padding: 5px 10px; font-size: 14px; cursor: pointer; text-align: center; margin-top: 10px;
@@ -21,9 +21,9 @@ h3 { font-size: 90%; font-weight: bold; margin-top: 10px; margin-bottom: 5px; co
 #button_center .button:active { background-color: #002699; color:#f2f2f2; box-shadow: 0 5px #666; transform: translateY(4px); font-weight: bold;}
 
 
-p {font-size:11.5px;}
-p.heavy { font-weight: bold; font-size:11.5px;}
-p.italic { font-weight: normal; font-style: italic; font-size:11.5px;}
+p {font-size:12px;}
+p.heavy { font-weight: bold; font-size:12px;}
+p.italic { font-weight: normal; font-style: italic; font-size:12px;}
 
 ul.a {list-style-type: square;font-size:11.5px; font-family: verdana, sans-serif;}
 
