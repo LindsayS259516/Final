@@ -1,0 +1,41 @@
+
+.tabs { display: flex;
+	flex-wrap: wrap; }
+
+.tabs label { order: 1;
+	      display: block;
+	      padding: 10px;
+	      margin-right: 0.2rem;
+	      cursor: pointer;
+              background: #99bbff;
+              font-weight: bold;
+              transition: background ease 0.5s; }
+
+.tabs .tab { order: 99;
+             flex-grow: 1;
+	     width: 100%;
+	     display: none;
+             padding: 1rem;
+             background: #ffffe6;; }
+
+.tabs input[type="radio"] { display: none; }
+
+.tabs input[type="radio"]:checked + label { background: #ffffe6; }
+
+.tabs input[type="radio"]:checked + label + .tab { display: block; }
+
+@media (max-width: 45em) {
+  .tabs .tab,
+  .tabs label {
+    order: initial; }
+
+  .tabs label {
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0.2rem; }
+}
+
+
+body { background: #ececf9;;
+       min-height: 100vh;
+       box-sizing: border-box;}
