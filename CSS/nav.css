@@ -80,8 +80,8 @@ h1 { font-size: 175%;
     	  font-size: 14px;
     	  border-right: 1px solid #222;
     	  border-left: 1px solid #555;
-	  position: relative;
-	  width: 100%;
+    	  position: relative;
+	      width: 100%;
     	  display: block;
     	  text-shadow: 0 -1px 0 #000;
     	  background-image: linear-gradient(bottom, #666666 0%, #e6e6e6 100%);
@@ -99,12 +99,6 @@ h1 { font-size: 175%;
     	 overflow: hidden;
     	 text-align: center;
     	 text-shadow: 0 -1px 0 #000; }
-
-#menu_left a:after {  background: rgba(255,255,255,.07);
-		height: 25px;
-		left: 0;
-		position: absolute;
-		width: 100%; }
 
 #menu_left li:hover > a { background: #002699;
 		    border-left-color: #222;

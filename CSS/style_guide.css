@@ -27,7 +27,9 @@ p.heavy { font-weight: bold;
           font-size:12px;}
 p.italic { font-weight: normal;
            font-style: italic;
-           font-size:12px; background-color: #99ff99;}
+           font-size:12px;
+           background-color: #99ff99;
+           text-indent: 20px}
 
 ul.a {list-style-type: square;font-size:11.5px; font-family: verdana, sans-serif;}
 
