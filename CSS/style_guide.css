@@ -90,11 +90,11 @@ p.highlight { font-weight: normal;
               background-color: #4dff4d;
               margin-left: 40px}
 
-ul.a {list-style-type: square;
+ul {list-style-type: square;
       font-size:12px;
       font-family: verdana, sans-serif;}
 
-ol.c {list-style-type: decimal;
+ol {list-style-type: decimal;
       font-size:12px}
 
 table { table-layout: fixed;
